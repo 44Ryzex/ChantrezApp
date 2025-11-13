@@ -15,10 +15,6 @@ npm install
 npm start
 ```
 
-Default admin credentials:
-- **Username:** admin
-- **Password:** O9ueTELKgZ2
-
 ## Updates - v3.0
 
 ### ✅ Latest Changes
