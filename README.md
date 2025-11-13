@@ -34,6 +34,6 @@ Default admin credentials:
 - Better error handling
 
 ---
-**Made with ❤️ by ryzex.thy**
+**Made by ryzex.thy**
 
 Visit: [ChantrezApp GitHub Repository](https://github.com/44Ryzex/ChantrezApp)
