@@ -1,0 +1,28 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Poppins', sans-serif; background: #0a0a0a; min-height: 100vh; display: flex; align-items: center; justify-content: center; }
+.auth-container { width: 100%; max-width: 450px; padding: 20px; }
+.auth-box { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 20px; padding: 40px; box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8); }
+.auth-header { text-align: center; margin-bottom: 30px; }
+.auth-header i { font-size: 64px; color: #5865f2; margin-bottom: 15px; display: block; }
+.auth-header h1 { color: #ffffff; font-size: 28px; margin-bottom: 10px; }
+.auth-header p { color: #888; font-size: 14px; }
+.form-group { position: relative; margin-bottom: 20px; }
+.form-group i { position: absolute; left: 15px; top: 50%; transform: translateY(-50%); color: #5865f2; font-size: 18px; }
+.form-group input { width: 100%; padding: 15px 15px 15px 45px; background: #0f0f0f; border: 2px solid #2a2a2a; border-radius: 10px; color: #fff; font-size: 14px; transition: all 0.3s; }
+.form-group input:focus { outline: none; border-color: #5865f2; box-shadow: 0 0 0 3px rgba(88, 101, 242, 0.1); background: #151515; }
+.btn-primary { width: 100%; padding: 15px; background: linear-gradient(135deg, #5865f2 0%, #4752c4 100%); border: none; border-radius: 10px; color: #fff; font-size: 16px; font-weight: 600; cursor: pointer; transition: all 0.3s; display: flex; align-items: center; justify-content: center; gap: 10px; }
+.btn-primary:hover { transform: translateY(-2px); box-shadow: 0 10px 25px rgba(88, 101, 242, 0.4); }
+.auth-footer { text-align: center; margin-top: 20px; color: #888; font-size: 14px; }
+.auth-footer a { color: #5865f2; text-decoration: none; font-weight: 600; }
+.credits { text-align: center; margin-top: 30px; color: #666; font-size: 13px; }
+.credits strong { color: #5865f2; }
+.notification { position: fixed; top: 30px; right: 30px; background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 10px; padding: 20px; display: flex; align-items: center; gap: 15px; transform: translateX(400px); transition: transform 0.4s; z-index: 9999; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8); min-width: 300px; }
+.notification.show { transform: translateX(0); }
+.notification i { font-size: 24px; color: #3ba55d; }
+.notification span { color: #fff; font-weight: 500; }
+.banned-icon { text-align: center; margin-bottom: 20px; }
+.banned-icon i { font-size: 80px; color: #ed4245; animation: pulse 2s infinite; }
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+.warning-box { background: rgba(250, 166, 26, 0.1); border: 1px solid #faa61a; border-radius: 10px; padding: 15px; display: flex; align-items: center; gap: 15px; margin-top: 20px; }
+.warning-box i { color: #faa61a; font-size: 24px; }
+.warning-box p { color: #b0b0b0; margin: 0; font-size: 14px; }

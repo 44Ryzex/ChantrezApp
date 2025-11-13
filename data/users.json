@@ -1,0 +1,255 @@
+[
+    {
+        "id": "f248d96e-664b-49a5-8a42-006590db975e",
+        "username": "admin",
+        "password": "$2a$10$UdLRbHiFuN5etemgisoma.8R0mul8l9QW1y.pZdcLpY.Q/dyyZUJe",
+        "email": "admin@panel.com",
+        "discordId": "000000000000000000",
+        "accountType": "admin",
+        "registeredIP": "0.0.0.0",
+        "allowedIP": "0.0.0.0",
+        "banned": false,
+        "createdAt": "2025-11-08T03:18:21.443Z",
+        "botToken": "",
+        "guildId": "1435771153267425322",
+        "botStatus": {
+            "online": false,
+            "ready": false
+        },
+        "ticketSettings": {
+            "embedTitle": "Support Ticket",
+            "embedDescription": "Open a ticket for support",
+            "staffRole": "",
+            "ticketsCategory": "",
+            "closedCategory": "",
+            "ticketChannel": ""
+        },
+        "activityTestMessages": {
+            "title": "⚡ Activity Test",
+            "description": "Join!",
+            "timeFieldName": "⏰ Time",
+            "noteFieldName": "📝 Note",
+            "noteFieldValue": "Don't forget!"
+        },
+        "ingameAncMessages": {
+            "title": "🎮 Ingame"
+        },
+        "guardSettings": {
+            "radar": {
+                "roles": [
+                    {
+                        "id": "1438197755586805801",
+                        "name": "3"
+                    }
+                ],
+                "action": "kick"
+            },
+            "channelProtection": {
+                "createLimit": 1,
+                "deleteLimit": 1,
+                "resetTime": 3600000,
+                "action": "removeRoles",
+                "assignRole": "1436493006457802812",
+                "deleteAction": "",
+                "deleteAssignRole": "",
+                "enabled": false
+            },
+            "memberProtection": {
+                "banLimit": 1,
+                "kickLimit": 1,
+                "timeoutLimit": 1,
+                "resetTime": 3600000,
+                "action": "removeRoles",
+                "assignRole": "1436493023017173112",
+                "enabled": false
+            },
+            "roleProtection": {
+                "createLimit": 1,
+                "deleteLimit": 1,
+                "resetTime": 3600000,
+                "action": "kick",
+                "assignRole": "1436493006457802812"
+            },
+            "logChannel": "1435771153795911792"
+        },
+        "guardLogs": [
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from ryzex.thy: Channel deletion - Direct action",
+                "timestamp": "2025-11-12T16:05:58.461Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from ryzex.thy: Channel deletion limit exceeded (2)",
+                "timestamp": "2025-11-12T16:07:34.321Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from suspect.dev: Timeout limit exceeded (1)",
+                "timestamp": "2025-11-12T16:09:35.463Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from suspect.dev: Timeout limit exceeded (1)",
+                "timestamp": "2025-11-12T16:09:46.142Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from suspect.dev: Timeout limit exceeded (1)",
+                "timestamp": "2025-11-12T16:10:08.484Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from suspect.dev: Kick limit exceeded (1)",
+                "timestamp": "2025-11-12T16:10:13.784Z"
+            },
+            {
+                "type": "warning",
+                "message": "🦶 Kicked ryzex.thy: Radar role - Timeout action",
+                "timestamp": "2025-11-12T16:10:36.076Z"
+            },
+            {
+                "type": "warning",
+                "message": "🦶 Kicked ryzex.thy: Radar role - Timeout action",
+                "timestamp": "2025-11-12T16:11:07.078Z"
+            },
+            {
+                "type": "warning",
+                "message": "🦶 Kicked ryzex.thy: Radar role - Kick action",
+                "timestamp": "2025-11-12T16:12:55.405Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from suspect.dev: Role deletion limit exceeded (1)",
+                "timestamp": "2025-11-12T16:13:54.307Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from ryzex.thy: Role creation limit exceeded (1)",
+                "timestamp": "2025-11-12T16:14:29.985Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from ryzex.thy: Role creation limit exceeded (1)",
+                "timestamp": "2025-11-12T16:14:54.316Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from ryzex.thy: Role creation limit exceeded (1)",
+                "timestamp": "2025-11-12T16:15:06.348Z"
+            },
+            {
+                "type": "warning",
+                "message": "🦶 Kicked ryzex.thy: Role creation limit exceeded (1)",
+                "timestamp": "2025-11-12T16:15:19.824Z"
+            },
+            {
+                "type": "warning",
+                "message": "🦶 Kicked ryzex.thy: Role creation limit exceeded (1)",
+                "timestamp": "2025-11-12T16:15:54.352Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles and kicked ryzex.thy: Channel deletion limit exceeded (1)",
+                "timestamp": "2025-11-12T16:37:55.008Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles and kicked ryzex.thy: Channel deletion limit exceeded (1)",
+                "timestamp": "2025-11-12T16:49:02.792Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles and kicked ryzex.thy: Channel deletion limit exceeded (1)",
+                "timestamp": "2025-11-12T17:00:59.609Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from ryzex.thy: Channel deletion limit exceeded (1)",
+                "timestamp": "2025-11-12T17:08:57.173Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from ryzex.thy: Channel deletion limit exceeded (1)",
+                "timestamp": "2025-11-12T17:18:05.064Z"
+            },
+            {
+                "type": "warning",
+                "message": "🚫 Removed roles from ryzex.thy: Channel deletion limit exceeded (1)",
+                "timestamp": "2025-11-12T17:18:23.103Z"
+            },
+            {
+                "type": "warning",
+                "message": "🦶 Kicked ryzex.thy: Radar role - Timeout action",
+                "timestamp": "2025-11-12T17:19:09.860Z"
+            }
+        ]
+    },
+    {
+        "id": "0a897a6a-4f8f-4c17-8cb7-f8a8d22236ab",
+        "username": "ryzex",
+        "password": "$2a$10$CWKY6QVyNBwd9gcFi6QO.eUaxBv0onJ/Pr8B1cNrKJTz5BfdoucKu",
+        "email": "ryzex@ryzex.cc",
+        "discordId": "ryzex.thy",
+        "accountType": "admin",
+        "registeredIP": "127.0.0.1",
+        "allowedIP": "127.0.0.1",
+        "banned": false,
+        "createdAt": "2025-11-13T09:32:43.673Z",
+        "botToken": "",
+        "guildId": "",
+        "botStatus": {
+            "online": false,
+            "ready": false
+        },
+        "ticketSettings": {
+            "embedTitle": "Support Ticket",
+            "embedDescription": "Open a ticket for support",
+            "staffRole": "",
+            "ticketsCategory": "",
+            "closedCategory": "",
+            "ticketChannel": ""
+        },
+        "activityTestMessages": {
+            "title": "⚡ Activity Test",
+            "description": "Join!",
+            "timeFieldName": "⏰ Time",
+            "noteFieldName": "📝 Note",
+            "noteFieldValue": "Don't forget!"
+        },
+        "ingameAncMessages": {
+            "title": "🎮 Ingame"
+        },
+        "guardSettings": {
+            "radar": {
+                "roles": []
+            },
+            "channelProtection": {
+                "createLimit": 3,
+                "deleteLimit": 2,
+                "resetTime": 3600000,
+                "action": "kick",
+                "assignRole": "",
+                "deleteAction": "",
+                "deleteAssignRole": ""
+            },
+            "memberProtection": {
+                "banLimit": 2,
+                "kickLimit": 5,
+                "timeoutLimit": 10,
+                "resetTime": 3600000,
+                "action": "kick",
+                "assignRole": ""
+            },
+            "roleProtection": {
+                "createLimit": 3,
+                "deleteLimit": 2,
+                "resetTime": 3600000,
+                "action": "kick",
+                "assignRole": ""
+            },
+            "logChannel": ""
+        },
+        "guardLogs": []
+    }
+]

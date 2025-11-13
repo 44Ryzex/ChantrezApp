@@ -1,0 +1,22 @@
+{
+    "token": "",
+    "guildId": "",
+    "ticketSettings": {
+        "embedTitle": "Support Ticket",
+        "embedDescription": "Open a ticket for support",
+        "staffRole": "1435771452161790134",
+        "ticketsCategory": "1435771603936870573",
+        "closedCategory": "1435771577521143909",
+        "ticketChannel": "1435771153795911792"
+    },
+    "activityTestMessages": {
+        "title": "⚡ Activity Test",
+        "description": "Join!",
+        "timeFieldName": "⏰ Time",
+        "noteFieldName": "📝 Note",
+        "noteFieldValue": "Don't forget!"
+    },
+    "ingameAncMessages": {
+        "title": "🎮 Ingame"
+    }
+}

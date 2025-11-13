@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Login</title>
+<link rel="stylesheet" href="/css/auth.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+<div class="auth-container">
+<div class="auth-box">
+<div class="auth-header">
+<i class="fas fa-robot"></i>
+<h1>Chântréz MT Bot</h1>
+<p>Login</p>
+</div>
+<form id="loginForm">
+<div class="form-group">
+<i class="fas fa-user"></i>
+<input type="text" id="username" placeholder="Username" required>
+</div>
+<div class="form-group">
+<i class="fas fa-lock"></i>
+<input type="password" id="password" placeholder="Password" required>
+</div>
+<button type="submit" class="btn-primary"><i class="fas fa-sign-in-alt"></i> Login</button>
+</form>
+<div class="auth-footer"><p>If you dont have an account <a href="/register">Register</a></p></div>
+<div class="credits">made by <strong>ryzex.thy</strong></div>
+</div>
+</div>
+<div class="notification" id="notification"><i class="fas fa-check-circle"></i><span id="notificationText"></span></div>
+<script src="/js/auth.js"></script>
+</body>
+</html>
