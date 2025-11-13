@@ -1,11 +1,12 @@
-# Discord Bot Panel PRO v3.0
+# Fivem Chantrez MT-BOT v3
 Made by **ryzex.thy**
 
 ## Features
 - 🛡️ **Guard System** - Advanced server protection
 - 🎫 **Ticket System** - Support ticket management
 - ⚡ **Activity Tests** - Member engagement tools
-- 🎮 **Game Announcements** - In-game activity notifications
+- 🎮 **Ingame Test** - In-game activity notifications
+- 📢 **DM Annonucment** - Sends a message to everyone
 - 👑 **Admin Panel** - Complete server management
 
 ## Setup
